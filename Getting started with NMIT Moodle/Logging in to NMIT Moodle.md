@@ -1,4 +1,4 @@
-<h1> NMIT Moodle login for students & staff </h1>
+# NMIT Moodle login for students & staff
 * All NMIT students and staff must login to NMIT Moodle using your NMIT computer account.
 
  
