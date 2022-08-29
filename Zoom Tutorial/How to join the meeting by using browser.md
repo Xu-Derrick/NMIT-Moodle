@@ -5,4 +5,3 @@
 *	Accept the camera and microphone request
 *	Type your name and join the meeting
 
-theme:minima
